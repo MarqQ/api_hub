@@ -1,4 +1,4 @@
-my_fastapi_project/
+api_hub/
 │
 ├── openweather_app/
 │   ├── __init__.py
